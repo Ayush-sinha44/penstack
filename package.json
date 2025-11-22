@@ -1,0 +1,14 @@
+{
+  "name": "stationary-exchange-backend",
+  "version": "1.0.0",
+  "description": "Backend for University Stationary Exchange System",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["stationary", "exchange", "university"],
+  "author": "",
+  "license": "ISC"
+}
